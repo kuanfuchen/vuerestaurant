@@ -3,6 +3,10 @@
 ## Project setup
 ```
 npm install
+Vue 3
+firebase
+Vuefire.js
+Chart.js
 ```
 
 ### Compiles and hot-reloads for development
